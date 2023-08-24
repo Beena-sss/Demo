@@ -1,3 +1,3 @@
 # Demo
-This is my first github project
-author- Beena Paswan
+This is my first github project.
+author- Beena
